@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mu Shop Editor", "EventItemBag-Editor.csproj", "{8DC2FBE6-CB17-4BD7-A5F1-CF922114351B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DC2FBE6-CB17-4BD7-A5F1-CF922114351B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC2FBE6-CB17-4BD7-A5F1-CF922114351B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC2FBE6-CB17-4BD7-A5F1-CF922114351B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC2FBE6-CB17-4BD7-A5F1-CF922114351B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
